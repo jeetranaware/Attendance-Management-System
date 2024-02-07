@@ -21,7 +21,7 @@ studentdetail_path = (
 )
 attendance_path = "Attendance"
 
-# for choose subject and fill attendance
+#for choose subject and fill attendance
 def subjectChoose(text_to_speech):
     def FillAttendance():
         sub = tx.get()
