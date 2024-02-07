@@ -263,7 +263,7 @@ def TakeImageUI():
             text_to_speech,
         )
 
-    # Train Image button
+    # Train Image buttons
     trainImg = tk.Button(
         ImageUI,
         text="Train Image",

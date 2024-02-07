@@ -20,6 +20,7 @@ studentdetail_path = (
     "StudentDetails\\studentdetails.csv"
 )
 attendance_path = "Attendance"
+
 # for choose subject and fill attendance
 def subjectChoose(text_to_speech):
     def FillAttendance():
